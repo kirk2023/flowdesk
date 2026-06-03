@@ -2,6 +2,8 @@
 
 **无账号、零依赖的局域网远程桌面** — 手机控电脑，扫码即连。
 
+[English](README.en.md)
+
 <p align="center">
   <img src="FlowDeskServer/FlowDeskServer/assets/app_icon.png" width="128" />
 </p>
