@@ -1,0 +1,56 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\kirk\\.ohos\\config\\default_FlowDeskHarmony_4jXqQVpRExiF_ncNDXDeIGm-YJi0K1rp0tkWbR8Ut9k=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BE9135C4204903D1FBC037A5E7563DB3EEFD2FC61D414B747A31398161812FF3A1AECC47158E778",
+          "profile": "C:\\Users\\kirk\\.ohos\\config\\default_FlowDeskHarmony_4jXqQVpRExiF_ncNDXDeIGm-YJi0K1rp0tkWbR8Ut9k=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\kirk\\.ohos\\config\\default_FlowDeskHarmony_4jXqQVpRExiF_ncNDXDeIGm-YJi0K1rp0tkWbR8Ut9k=.p12",
+          "storePassword": "0000001B425C1D1394D7C850E1EF178816EED0FC99299A1DA8089F4289103B8D58D7A150A641C66751D7EB"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "6.1.0(23)",
+        "targetSdkVersion": "6.1.0(23)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "title_devices",
+      "value": "My Devices"
+    },
+    {
+      "name": "title_add_device",
+      "value": "Add Computer"
+    },
+    {
+      "name": "empty_devices_hint",
+      "value": "No paired devices yet\nTap the + button to add"
+    }
+  ]
+}

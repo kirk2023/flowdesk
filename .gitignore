@@ -1,0 +1,36 @@
+# Build outputs
+bin/
+obj/
+publish/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# HarmonyOS build
+oh_modules/
+.hvigor/
+build/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
+
+# Other
+output/
+myclipboard/
+mypet/
+rednote-cards.html
+package.json
+opencode.exe*
+elog.txt

@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "title_devices",
+      "value": "我的设备"
+    },
+    {
+      "name": "title_add_device",
+      "value": "添加电脑"
+    },
+    {
+      "name": "empty_devices_hint",
+      "value": "暂无已配对设备\n点击右上角添加"
+    },
+    {
+      "name": "slogan",
+      "value": "扫码就连，像蓝牙配对一样简单"
+    }
+  ]
+}

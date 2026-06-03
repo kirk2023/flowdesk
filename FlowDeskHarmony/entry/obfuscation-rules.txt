@@ -1,0 +1,3 @@
+# Obfuscation rules placeholder
+# Add obfuscation rules here for release builds
+-disable-obfuscation

@@ -1,0 +1,112 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "FlowDesk main module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "FlowDesk main ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "FlowDesk"
+    },
+    {
+      "name": "perm_internet_reason",
+      "value": "用于局域网 P2P 通信"
+    },
+    {
+      "name": "perm_wifi_reason",
+      "value": "用于发现局域网内的 Windows 电脑"
+    },
+    {
+      "name": "perm_background_reason",
+      "value": "用于保持连接稳定"
+    },
+    {
+      "name": "perm_camera_reason",
+      "value": "用于扫描电脑屏幕上的配对二维码"
+    },
+    {
+      "name": "title_devices",
+      "value": "我的设备"
+    },
+    {
+      "name": "title_add_device",
+      "value": "添加电脑"
+    },
+    {
+      "name": "title_about",
+      "value": "关于 FlowDesk"
+    },
+    {
+      "name": "empty_devices_hint",
+      "value": "暂无已配对设备\n点击右上角添加"
+    },
+    {
+      "name": "btn_add_by_qr",
+      "value": "扫码配对"
+    },
+    {
+      "name": "btn_add_by_id",
+      "value": "输入设备ID"
+    },
+    {
+      "name": "btn_add_by_pin",
+      "value": "动态 PIN 配对"
+    },
+    {
+      "name": "dialog_add_title",
+      "value": "添加远程电脑"
+    },
+    {
+      "name": "input_device_id_hint",
+      "value": "请输入电脑上的 9 位设备ID"
+    },
+    {
+      "name": "input_pin_hint",
+      "value": "请输入电脑上的 6 位 PIN"
+    },
+    {
+      "name": "btn_connect",
+      "value": "连接"
+    },
+    {
+      "name": "btn_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "status_connecting",
+      "value": "正在连接..."
+    },
+    {
+      "name": "status_connected",
+      "value": "已连接"
+    },
+    {
+      "name": "status_disconnected",
+      "value": "未连接"
+    },
+    {
+      "name": "dialog_remove_title",
+      "value": "移除设备"
+    },
+    {
+      "name": "dialog_remove_confirm",
+      "value": "确定要移除 %s 吗？移除后需要重新配对。"
+    },
+    {
+      "name": "btn_remove",
+      "value": "移除"
+    },
+    {
+      "name": "version_label",
+      "value": "FlowDesk v1.0.0 (MVP)"
+    },
+    {
+      "name": "slogan",
+      "value": "扫码就连，像蓝牙配对一样简单"
+    }
+  ]
+}
